@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "my-silver-react-practice",
+    "slug": "my-silver-react-practice",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "my-silver-react-practice"
+}
